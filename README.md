@@ -1,1 +1,1 @@
-# ott-platform
+# ott-platform tailwindcss
